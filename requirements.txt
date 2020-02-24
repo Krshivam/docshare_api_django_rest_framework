@@ -10,7 +10,7 @@ attrs==19.1.0
 autobahn==19.7.1
 Automat==0.7.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.1
 boto3==1.9.189
 botocore==1.12.189
 certifi==2019.3.9
