@@ -57,7 +57,7 @@ gunicorn==19.9.0
 gym==0.13.1
 h5py==2.9.0
 hiredis==1.0.0
-httpie==1.0.3
+httpie==3.1.0
 hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
